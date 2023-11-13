@@ -6,10 +6,66 @@
 
 
 header{
-    height: 110px;
-    background-color: aqua;
+    height: 50px;
+    background-color:cornflowerblue;
     background-image: url(../img/pattern.png);
-    background-size: contain;
+    background-size: 200px;
     
 }
+    img{
+        width: 100px;
+        padding-top: 20px;
+}
+
+h1{
+    padding-top: 10px;
     
+}
+
+span{
+    color: dimgray;
+    ;
+}
+#azzurro{
+    color: aqua;
+}
+#piccolo{
+    font-size:xx-small;
+    line-height: 0px
+    ;
+}
+#foto1{
+    width: 300px;
+}
+#foto2{
+    width: 255px;
+}
+.didascalia{
+    font-size: xx-small;
+    display:block;
+    }
+
+    .evidenziato{
+        background: yellow;
+        color: black;
+
+    }
+    ul{
+        margin: 20px;;
+    }
+    table{
+    border:none
+        }
+
+    thead{
+        background-color:blue;
+        color: aliceblue;
+    }
+    
+    
+    #bianco{
+        background-color:white;
+    }
+    .dispari{
+        background-color: aqua;
+    }
