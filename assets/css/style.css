@@ -69,3 +69,28 @@ span{
     .dispari{
         background-color: aqua;
     }
+    #grigio{
+        color: grey;
+    }
+    #monitor{
+        width: 200px;
+        display: block;
+    }
+    #grafico{
+        width: 200px;
+        padding-top: 10px;
+    }
+
+    .container{
+        position: relative;
+        text-align: center;
+
+    }
+    div{
+        position: absolute;
+        
+        color: black;
+    }
+
+
+
